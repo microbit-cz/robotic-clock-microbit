@@ -10,7 +10,7 @@ Kazda připomínky ke 3D
 Moje konstruční věci
 - [ ] deska se stupnicí
 - [ ] krokový motor pro pohon ručičky
-- [ ] ručička
+- [x] ručička
 - [ ] IR senzor pro zjištění polohy ručičky na "12 h"
 - [ ] LED kruh z WS2812b hodinový a minutový
 - [ ] základní cable management + příprava k připojení stojanu se zbytkem elektroniky
