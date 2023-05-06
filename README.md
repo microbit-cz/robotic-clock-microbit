@@ -8,4 +8,9 @@
 - [ ] Max velikost do 17,5 cm
 
 ##Moje konstruční věci
-- [ ] Nevím
+- [ ] deska se stupnicí
+- [ ] krokový motor pro pohon ručičky
+- [ ] ručička
+- [ ] IR senzor pro zjištění polohy ručičky na "12 h"
+- [ ] LED kruh z WS2812b hodinový a minutový
+- [ ] základní cable management + příprava k připojení stojanu se zbytkem elektroniky
