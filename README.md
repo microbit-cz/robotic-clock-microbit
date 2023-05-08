@@ -8,9 +8,9 @@ Kazda připomínky ke 3D
 - [ ] Max velikost do 17,5 cm
 
 Moje konstruční věci
-- [ ] deska se stupnicí
-- [ ] krokový motor pro pohon ručičky (to bude v tom stojanu od Radka)
+- [x] deska se stupnicí
+- [x] krokový motor pro pohon ručičky (to bude v tom stojanu od Radka)
 - [x] ručička
-- [ ] IR senzor pro zjištění polohy ručičky na "12 h"
-- [ ] LED kruh z WS2812b hodinový a minutový
-- [ ] základní cable management + příprava k připojení stojanu se zbytkem elektroniky
+- [x] IR senzor pro zjištění polohy ručičky na "12 h"
+- [x] LED kruh z WS2812b hodinový a minutový
+- [x] základní cable management + příprava k připojení stojanu se zbytkem elektroniky
