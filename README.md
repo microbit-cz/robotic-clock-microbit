@@ -16,7 +16,14 @@ Projekt na vlastní hodiny ovládaný [mikrobitem](https://microbit.org/)
 
 > **Warning**
 > Při vypalování je nutná neustála kontrola a je zakázaný ocházet bez dozoru, jelikož může vzniknout požár. Taktéž doporučuji v místnosti otevřít okna pro snížení akumulace kouře
-> 
+
+
+
+## Cena
+CCa nás projekt vyšel na nějakých 1000 korun s mikrobitem a bez něj na nějakých 500 korun bez dopravy
+> **Note**
+> Cena je počítána ve **03.06.2023**, takže cena kvůli rostoucí inflaci a započtení dopravy se může podstatně lišit
+
 ## Authors
 
 - [@Jan Sebastián Kostlán](https://www.github.com/kostlanovec)
