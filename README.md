@@ -1,16 +1,12 @@
-To-do list
+# Robotické hodiny se stojanem na elektroniku
+![App Screenshot]()
 
-Kazda připomínky ke 3D
-- [ ] Určení předních rovin
-- [ ] nic nesmí být užší než 0.7 mm
-- [ ] otvory musí být větší o 0.2 mm (velmi těsné spojení), 0.4 to samo nevyklouzne a 0.6 do 0.8 kluzké části.
-- [ ] beze vzduchu ve Sliceru (musíme koukat, na ty méně viditelné části můžeme použít podpěry
-- [ ] Max velikost do 17,5 cm
+A brief description of what this project does and who it's for
 
-Moje konstruční věci
-- [x] deska se stupnicí
-- [x] krokový motor pro pohon ručičky
-- [x] ručička
-- [x] IR senzor pro zjištění polohy ručičky na "12 h"
-- [x] LED kruh z WS2812b hodinový a minutový
-- [x] základní cable management + příprava k připojení stojanu se zbytkem elektroniky
+
+## Authors
+
+- [@Jan Sebastián Kostlán](https://www.github.com/kostlanovec)
+- [@Radek Janeček](https://www.github.com/janecek)
+
+
