@@ -6,7 +6,7 @@ Projekt na vlastní hodiny ovládaný [mikrobitem](https://microbit.org/)
 
 ## Potřebné věci před realizací
 
-- [překližka](https://www.cistedrevo.cz/dreveny-tacek-z-preklizky/)
+- [Překližka](https://www.cistedrevo.cz/dreveny-tacek-z-preklizky/)
 - [4 dotykové senzory](https://m.th.aliexpress.com/item/32901141115.html?gatewayAdapt=Pc2Msite)
 - [IR senzor](https://dratek.cz/arduino/1142-infracerveny-opticky-senzor.html)
 - [Led kruh WS2812b 24](https://dratek.cz/arduino/7693-rgb-led-kruh-24-x-neopixel-ws2812b.html)
@@ -16,7 +16,7 @@ Projekt na vlastní hodiny ovládaný [mikrobitem](https://microbit.org/)
 - [KittenBot iobit V2.0 for micro:bit](https://cz.rs-online.com/web/p/doplnky-bbc-micro-bit/2121789)
 - [Modul dvojitého H-můstku MX1508](https://pajenicko.cz/modul-dvojiteho-h-mustku-mx1508)
 - [Mikrobit na ovládání hodin](https://ruzovka.cz/cs/micro-bit/19683-bbc-micro-bit-v2-21-mikropocitac-pro-vyuku-programovani.html)
-- [led páska 4 adresovatelné kousky](https://www.postavrobota.cz/Adresovatelny-LED-pasek-18W-m-WS2812B-RGB-1-66cm-d1666.htm)
+- [Led páska 4 adresovatelné kousky](https://www.postavrobota.cz/Adresovatelny-LED-pasek-18W-m-WS2812B-RGB-1-66cm-d1666.htm)
 - [Filament na 3D tisk](https://www.alza.cz/gembird-filament-pla-cerna-d4481219.htm)
 
 ## Vypalování
@@ -28,7 +28,7 @@ Nejprve začneme s vypalováním do překližky. Soubor [preklizka](preklizka.sl
 Na tisk je potřeba "překvapivě" 3D tiskárna. Na to jsme využili [prusa mini 2](https://www.prusa3d.com/cs/produkt/stavebnice-3d-tiskarny-original-prusa-mini-2/) a byl využit PLA filament. Nabízí se nám třeba takový [filament](https://www.alza.cz/gembird-filament-pla-cerna-d4481219.htm). Samozřejmě barvu si vyberte jakou chcete. Je třeba vytisknout všechny části, kterou jsou na obrázku.
 ![App Screenshot](images/PlastoveCasti.jpg)
 
-### konkrétní soubory na tisk
+### Konkrétní soubory na tisk
 - [Krabička s motorem](motorkrabicka.SLDPRT)
 - [2× krabička na pro dotykové senzory](ovladanikrabicka.SLDPRT)
 - [Ručička](rucicka.SLDPRT)
@@ -37,7 +37,7 @@ Na tisk je potřeba "překvapivě" 3D tiskárna. Na to jsme využili [prusa mini
 
 
 ## Cena
-CCa nás projekt vyšel na nějakých 1000 korun s mikrobitem a bez něj na nějakých 500 korun bez dopravy
+Cca nás projekt vyšel na nějakých 1000 korun s mikrobitem a bez něj na nějakých 500 korun bez dopravy
 > **Note**
 > Cena je počítána ve **03.06.2023**, takže kvůli rostoucí inflaci, započtení dopravy a geografické poloze se může cena podstatně lišit.
 
