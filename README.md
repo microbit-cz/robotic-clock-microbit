@@ -39,12 +39,7 @@ CCa nás projekt vyšel na nějakých 1000 korun s mikrobitem a bez něj na něj
 > **Note**
 > Cena je počítána ve **03.06.2023**, takže kvůli rostoucí inflaci, započtení dopravy a geografické poloze se může cena podstatně lišit.
 
-
 ## Seznam všech dostupných souboru
-
-
-## fotka všech částí
-
 
 ## Authors
 
