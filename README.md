@@ -42,4 +42,4 @@ CCa nás projekt vyšel na nějakých 1000 korun s mikrobitem a bez něj na něj
 ## Authors
 
 - [@Jan Sebastián Kostlán](https://www.github.com/kostlanovec)
-- [@Radek Janeček](https://www.github.com/janecek)
+- [@Radek Janeček](https://www.github.com/RadekJanecek)
