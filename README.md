@@ -36,6 +36,7 @@ Na tisk je potřeba "překvapivě" 3D tiskárna. Na to jsme využili [prusa mini
 ## Osazení součástek
 Základní osazení máte zde:
 ![App Screenshot](images/MainComponents.jpg)
+![App Screenshot](images/SoucastkyNaPreklizku.jpg)
 
 
 ## Cena
