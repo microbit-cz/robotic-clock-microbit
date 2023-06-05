@@ -34,10 +34,12 @@ Na tisk je potřeba "překvapivě" 3D tiskárna. Na to jsme využili [prusa mini
 - [Ručička](rucicka.SLDPRT)
 
 ## Osazení součástek
-Základní osazení máte zde:
+Základní osazení pro držák:
 ![App Screenshot](images/MainComponents.jpg)
+Základní osazení na překližku:
 ![App Screenshot](images/SoucastkyNaPreklizku.jpg)
-
+> **Warning**
+> Po nákupu součástek je potřeba zkontrolovat, zda všechny funuji, hlavně u dotykových senzoru, jestli dokážou indikovat dotyk.
 
 ## Cena
 Cca nás projekt vyšel na nějakých 1000 korun s mikrobitem a bez něj na nějakých 500 korun bez dopravy
