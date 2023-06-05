@@ -41,6 +41,8 @@ Základní osazení na překližku:
 > **Warning**
 > Po nákupu součástek je potřeba zkontrolovat, zda všechny funuji, hlavně u dotykových senzoru, jestli dokážou indikovat dotyk.
 
+## Konečné realizování
+Nainstalujte všechny šrouby, na potřebná místa a natahejte všechny kabely k držáků. Po realizování naštilujte IR senzor
 ## Cena
 Cca nás projekt vyšel na nějakých 1000 korun s mikrobitem a bez něj na nějakých 500 korun bez dopravy
 > **Note**
