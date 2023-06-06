@@ -19,9 +19,9 @@ Projekt na vlastní hodiny ovládaný [mikrobitem](https://microbit.org/)
 - [Mikrobit na ovládání hodin](https://ruzovka.cz/cs/micro-bit/19683-bbc-micro-bit-v2-21-mikropocitac-pro-vyuku-programovani.html)
 - [Led páska 4 adresovatelné kousky](https://www.postavrobota.cz/Adresovatelny-LED-pasek-18W-m-WS2812B-RGB-1-66cm-d1666.htm)
 - [Filament na 3D tisk](https://www.alza.cz/gembird-filament-pla-cerna-d4481219.htm)
-- [4 vruty o průměru 2mm](https://www.sroubyonline.cz/spojovaci-material/vruty/univerzalni-vruty/din-95-ocel-zinek-bily)
-- [4 vruty o průměru 2,5mm](https://www.sroubyonline.cz/spojovaci-material/vruty/univerzalni-vruty/zapustne-vruty-pz-ocel-zluty-zinek)(varianta 2,5x10)
-- [10 vrutů o průměru 3mm](https://www.sroubyonline.cz/spojovaci-material/vruty/univerzalni-vruty/zapustne-vruty-pz-ocel-zluty-zinek)(varianta 3x10)
+- [4 vruty o průměru 2 mm](https://www.sroubyonline.cz/spojovaci-material/vruty/univerzalni-vruty/din-95-ocel-zinek-bily)
+- [4 vruty o průměru 2,5 mm](https://www.sroubyonline.cz/spojovaci-material/vruty/univerzalni-vruty/zapustne-vruty-pz-ocel-zluty-zinek)(varianta 2,5x10)
+- [10 vrutů o průměru 3 mm](https://www.sroubyonline.cz/spojovaci-material/vruty/univerzalni-vruty/zapustne-vruty-pz-ocel-zluty-zinek)(varianta 3x10)
 
 ## Vypalování
 Nejprve začneme s vypalováním do překližky. Soubor [preklizka](preklizka.sldprt), který převedeme do souboru dxf. Bude to obsahovat přední a zadní rovinu. Abych vám to ulehčil, tak jsem vám to již do dvou souboru [predni](Vypalovani/preklizkapredni123.DXF) a [zadni](Vypalovani/preklizkazadni123.dxf). Byl použit laser [atomstack x7](https://www.atomstack.eu/products/atomstack-x7-pro-50w-laser-engraver-and-cutter). Je potřeba si najít střed překližky a brát v potaz odchylku každé překližky, protože ne každá překližka je stejně velká. Na stránkách našeho výrobce je odchylka 2-5 mm. Po vypálení očištěte kartáčkem.
