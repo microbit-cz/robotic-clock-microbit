@@ -34,6 +34,11 @@ Na tisk je potřeba "překvapivě" 3D tiskárna. Na to jsme využili [prusa mini
 - [2× krabička na pro dotykové senzory](ovladanikrabicka.SLDPRT)
 - [Ručička](rucicka.SLDPRT)
 - [Stojan](stojan-v6.SLDPRT)
+#### Pro lepší manipulaci STL
+- [Krabička s motorem](motorkrabicka.SLDPRT)
+- [2× krabička na pro dotykové senzory](ovladanikrabicka.SLDPRT)
+- [Ručička](rucicka.SLDPRT)
+- [Stojan](stojan-v6.SLDPRT)
 
 ## Osazení součástek
 Základní osazení pro držák:
