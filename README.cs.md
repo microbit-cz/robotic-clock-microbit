@@ -3,7 +3,7 @@
 Projekt na vlastní hodiny ovládaný [mikrobitem](https://microbit.org/)
 
 ## Jazyky
-[![Language](https://img.shields.io/badge/Language-English-blue)](./README.md) [![Jazyk](https://img.shields.io/badge/Jazyk-Čeština-blue)](./README.cz.md)
+[![Language](https://img.shields.io/badge/Language-English-blue)](./README.md) [![Jazyk](https://img.shields.io/badge/Jazyk-Čeština-blue)](./README.cs.md)
 
 ## Potřebné věci před realizací
 
@@ -56,7 +56,7 @@ Nainstalujte všechny vruty, na potřebná místa a natahejte všechny kabely k 
 ## Cena
 Cca nás projekt vyšel na nějakých 2000 (přesněji 1 995,28 kč).
 > **Note**
-> Cena je počítána ve **03.06.2023**, takže kvůli rostoucí inflaci, započtení dopravy a geografické poloze se může cena podstatně lišit.
+> Cena je počítána ve **06.06.2023**, takže kvůli rostoucí inflaci, započtení dopravy a geografické poloze se může cena podstatně lišit.
 ## Autoři
 
 - [@Jan Sebastián Kostlán](https://www.github.com/kostlanovec)
