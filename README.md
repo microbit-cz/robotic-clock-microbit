@@ -3,6 +3,7 @@
 Projekt na vlastní hodiny ovládaný [mikrobitem](https://microbit.org/)
 
 ## Jazyky
+[![Language](https://img.shields.io/badge/Language-English-blue)](./README.md) [![Jazyk](https://img.shields.io/badge/Jazyk-Čeština-blue)](./README.cz.md)
 
 ## Potřebné věci před realizací
 
