@@ -3,7 +3,7 @@
 Project for a custom clock controlled by [microbit](https://microbit.org/)
 
 ## Languages
-[![Language](https://img.shields.io/badge/Language-English-blue)](./README.md) [![Jazyk](https://img.shields.io/badge/Jazyk-Čeština-blue)](./README.cz.md)
+[![Language](https://img.shields.io/badge/Language-English-blue)](./README.md) [![Jazyk](https://img.shields.io/badge/Jazyk-Čeština-blue)](./README.cs.md)
 
 ## Things needed before implementation
 
