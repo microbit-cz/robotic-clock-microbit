@@ -56,7 +56,7 @@ Install all the screws, in the necessary places and pull all the cables to the b
 ## Price
 The project cost us about 2000 (more precisely 1 995,28 CZK).
 > **Note**
-> The price is calculated in **03.06.2023**, so due to rising inflation, accounting for transport and geographical location, the price may vary significantly.
+> The price is calculated in **06.06.2023**, so due to rising inflation, accounting for transport and geographical location, the price may vary significantly.
 ## Authors
 
 - [@Jan Sebastián Kostlán](https://www.github.com/kostlanovec)
