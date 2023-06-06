@@ -54,7 +54,7 @@ Nainstalujte všechny šrouby, na potřebná místa a natahejte všechny kabely 
 Cca nás projekt vyšel na nějakých 2000 (přesněji 1 995,28 kč).
 > **Note**
 > Cena je počítána ve **03.06.2023**, takže kvůli rostoucí inflaci, započtení dopravy a geografické poloze se může cena podstatně lišit.
-## Authors
+## Autoři
 
 - [@Jan Sebastián Kostlán](https://www.github.com/kostlanovec)
 - [@Radek Janeček](https://www.github.com/RadekJanecek)
