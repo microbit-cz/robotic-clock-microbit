@@ -54,9 +54,6 @@ Nainstalujte všechny šrouby, na potřebná místa a natahejte všechny kabely 
 Cca nás projekt vyšel na nějakých 1000 korun s mikrobitem a bez něj na nějakých 500 korun bez dopravy
 > **Note**
 > Cena je počítána ve **03.06.2023**, takže kvůli rostoucí inflaci, započtení dopravy a geografické poloze se může cena podstatně lišit.
-
-## Seznam všech dostupných souboru
-
 ## Authors
 
 - [@Jan Sebastián Kostlán](https://www.github.com/kostlanovec)
