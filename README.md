@@ -51,7 +51,7 @@ Základní osazení na překližku:
 ## Konečné realizování
 Nainstalujte všechny šrouby, na potřebná místa a natahejte všechny kabely k držáků. Po realizování naštilujte IR senzor
 ## Cena
-Cca nás projekt vyšel na nějakých 1000 korun s mikrobitem a bez něj na nějakých 500 korun bez dopravy
+Cca nás projekt vyšel na nějakých 2000 (přesněji 1 995,28 kč).
 > **Note**
 > Cena je počítána ve **03.06.2023**, takže kvůli rostoucí inflaci, započtení dopravy a geografické poloze se může cena podstatně lišit.
 ## Authors
