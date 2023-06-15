@@ -9,7 +9,7 @@ Projekt na vlastní hodiny ovládaný [mikrobitem](https://microbit.org/)
 
 - [Překližka](https://www.cistedrevo.cz/dreveny-tacek-z-preklizky/)
 - [4 dotykové senzory TTP223](https://th.aliexpress.com/item/32896003343.html)
-- [IR senzor TCRT5000](https://dratek.cz/arduino/1142-infracerveny-opticky-senzor.html)
+- [IR senzor TCRT5000](https://www.aliexpress.com/item/1005004150580253.html)
 - [Led kruh WS2812b 24](https://dratek.cz/arduino/7693-rgb-led-kruh-24-x-neopixel-ws2812b.html)
 - [Led kruh WS2812B 60](https://www.vokolo.cz/neopixel-ring/)
 - [Modulový drive servo motor pro arduino PCA9685](https://dratek.cz/arduino/1686-iic-i2c-modulovy-driver-servo-motoru-pro-arduino-pca9685-16-kanalu-12-bit-pwm.html)
