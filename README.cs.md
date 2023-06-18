@@ -8,9 +8,9 @@ Projekt na vlastní hodiny ovládaný [mikrobitem](https://microbit.org/)
 ## Potřebné věci před realizací
 
 - [Překližka](https://www.cistedrevo.cz/dreveny-tacek-z-preklizky/)
-- [4 dotykové senzory TTP223](https://th.aliexpress.com/item/32896003343.html)
+- [4 dotykové senzory TTP223](https://aliexpress.com/item/32896003343.html)
 - [IR senzor TCRT5000](https://www.aliexpress.com/item/1005004150580253.html)
-- [Led kruh WS2812b 24](https://dratek.cz/arduino/7693-rgb-led-kruh-24-x-neopixel-ws2812b.html)
+- [Led kruh WS2812B 24](https://dratek.cz/arduino/7693-rgb-led-kruh-24-x-neopixel-ws2812b.html)
 - [Led kruh WS2812B 60](https://www.vokolo.cz/neopixel-ring/)
 - [Modulový drive servo motor pro arduino PCA9685](https://www.aliexpress.com/item/1005001621846654.html)
 - [RTC hodiny reálného času s paměťovým modulem pro Arduino DS3231](https://www.aliexpress.com/item/32822420722.html)
@@ -19,8 +19,9 @@ Projekt na vlastní hodiny ovládaný [mikrobitem](https://microbit.org/)
 - [Mikrobit na ovládání hodin](https://www.aliexpress.com/item/1005005647468917.html)
 - [Led páska 4 adresovatelné kousky WS2812B](hthttps://www.aliexpress.com/item/4001322411818.html)
 - [Filament na 3D tisk]
-- [10 vrutů o průměru 3 mm](https://www.sroubyonline.cz/spojovaci-material/vruty/univerzalni-vruty/zapustne-vruty-pz-ocel-zluty-zinek)(varianta 3x10)
-- [2 šrouby M 3×30]
+- [10× vrutů o průměru 3 mm](https://www.aliexpress.com/item/10000094157430.html)(varianta 3x10)
+- [2× šrouby M 3×30](https://aliexpress.com/item/1005005469426695.html)
+- [2× tavná matice](https://aliexpress.com/item/1005003582355741.html)
 
 ## Vypalování
 Nejprve začneme s vypalováním do překližky. Soubor [preklizka](preklizka.sldprt), který převedeme do souboru dxf. Bude to obsahovat přední a zadní rovinu. Abych vám to ulehčil, tak jsem vám to již do dvou souboru [predni](Vypalovani/preklizkapredni123.DXF) a [zadni](Vypalovani/preklizkazadni123.dxf). Byl použit laser [atomstack x7](https://www.atomstack.eu/products/atomstack-x7-pro-50w-laser-engraver-and-cutter). Je potřeba si najít střed překližky a brát v potaz odchylku každé překližky, protože ne každá překližka je stejně velká. Na stránkách našeho výrobce je odchylka 2-5 mm. Po vypálení očištěte kartáčkem.
