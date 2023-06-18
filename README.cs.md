@@ -17,7 +17,7 @@ Projekt na vlastní hodiny ovládaný [mikrobitem](https://microbit.org/)
 - [KittenBot iobit V2.0 for micro:bit KBC9009A](https://www.aliexpress.com/item/32890235581.html)
 - [Modul dvojitého H-můstku MX1508](https://www.aliexpress.com/item/1005001636421978.html)
 - [Mikrobit na ovládání hodin](https://www.aliexpress.com/item/1005005647468917.html)
-- [Led páska 4 adresovatelné kousky WS2812B](https://www.postavrobota.cz/Adresovatelny-LED-pasek-18W-m-WS2812B-RGB-1-66cm-d1666.htm)
+- [Led páska 4 adresovatelné kousky WS2812B](hthttps://www.aliexpress.com/item/4001322411818.html)
 - [Filament na 3D tisk]
 - [10 vrutů o průměru 3 mm](https://www.sroubyonline.cz/spojovaci-material/vruty/univerzalni-vruty/zapustne-vruty-pz-ocel-zluty-zinek)(varianta 3x10)
 - [2 šrouby M 3×30]
