@@ -33,10 +33,10 @@ A 3D printer is "surprisingly" needed for printing. For this we used [prusa mini
 ![App Screenshot](images/PlastoveCasti.jpg)
 
 ### Konkrétní soubory na tisk
-- [Motor box](EngineBox.SLDPRT)
-- [2× box for touch sensors](BoxForTouchSensors.SLDPRT)
-- [Hand](HourHand.SLDPRT)
-- [Stand](Stand.SLDPRT)
+- [Motor box](ModelsSolidWorks/EngineBox.SLDPRT)
+- [2× box for touch sensors](ModelsSolidWorks/BoxForTouchSensors.SLDPRT)
+- [Hand](ModelsSolidWorks/HourHand.SLDPRT)
+- [Stand](ModelsSolidWorks/Stand.SLDPRT)
 
 ## Component mounting
 Basic mounting for the holder:
