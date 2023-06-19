@@ -7,7 +7,7 @@ Projekt na vlastní hodiny ovládaný [mikrobitem](https://microbit.org/)
 
 ## Potřebné věci před realizací
 
-- [Překližka](https://www.cistedrevo.cz/dreveny-tacek-z-preklizky/)
+|[Překližka](https://www.cistedrevo.cz/dreveny-tacek-z-preklizky/)|
 - [4 dotykové senzory TTP223](https://aliexpress.com/item/32896003343.html)
 - [IR senzor TCRT5000](https://www.aliexpress.com/item/1005004150580253.html)
 - [Led kruh - WS2812B 24](https://www.aliexpress.com/item/4000183166176.html)
