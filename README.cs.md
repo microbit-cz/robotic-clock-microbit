@@ -33,15 +33,10 @@ Na tisk je potřeba "překvapivě" 3D tiskárna. Na to jsme využili [prusa mini
 ![App Screenshot](images/PlastoveCasti.jpg)
 
 ### Konkrétní soubory na tisk
-- [Krabička s motorem](motorkrabicka.SLDPRT)
-- [2× krabička na pro dotykové senzory](ovladanikrabicka.SLDPRT)
-- [Ručička](rucicka.SLDPRT)
-- [Stojan](stojan-v6.SLDPRT)
-#### Pro lepší manipulaci STL
-- [Krabička s motorem](motorkrabicka.STL)
-- [2× krabička na pro dotykové senzory](ovladanikrabicka.STL)
-- [Ručička](rucicka.STL)
-- [Stojan](stojan-v6.STL)
+- [Krabička s motorem](ModelsSolidWorks/EngineBox.SLDPRT)
+- [2× krabička na pro dotykové senzory](ModelsSolidWorks/BoxForTouchSensors.SLDPRT)
+- [Ručička](ModelsSolidWorks/HourHand.SLDPRT)
+- [Stojan](ModelsSolidWorks/Stand.SLDPRT)
 
 ## Osazení součástek
 Základní osazení pro držák:
