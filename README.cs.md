@@ -9,21 +9,20 @@ Projekt na vlastní hodiny ovládaný [mikrobitem](https://microbit.org/)
 | Konkrétní položka  | Cena |
 | ------------- | ------------- |
 | [Překližka](https://www.cistedrevo.cz/dreveny-tacek-z-preklizky/)  | 20kč |
--[Překližka](https://www.cistedrevo.cz/dreveny-tacek-z-preklizky/)|
-- [4 dotykové senzory TTP223](https://aliexpress.com/item/32896003343.html)
-- [IR senzor TCRT5000](https://www.aliexpress.com/item/1005004150580253.html)
-- [Led kruh - WS2812B 24](https://www.aliexpress.com/item/4000183166176.html)
-- [4× Led kruh - WS2812 5050 RGB LED lampa Panel 1/4](https://www.aliexpress.com/item/1005005161775410.html)
-- [Modulový drive servo motor pro arduino PCA9685](https://www.aliexpress.com/item/1005001621846654.html)
-- [RTC hodiny reálného času s paměťovým modulem pro Arduino DS3231](https://www.aliexpress.com/item/32822420722.html)
-- [KittenBot iobit V2.0 for micro:bit KBC9009A](https://www.aliexpress.com/item/32890235581.html)
-- [Modul dvojitého H-můstku MX1508](https://www.aliexpress.com/item/1005001636421978.html)
-- [Mikrobit na ovládání hodin](https://www.aliexpress.com/item/1005005647468917.html)
-- [Led páska 4 adresovatelné kousky WS2812B](https://www.aliexpress.com/item/4001322411818.html)
-- [Filament na 3D tisk]
-- [10× vrutů o průměru 3 mm](https://www.aliexpress.com/item/10000094157430.html)(varianta 3x10)
-- [2× šrouby M 3×30](https://aliexpress.com/item/1005005469426695.html)
-- [2× tavná matice](https://aliexpress.com/item/1005003582355741.html)
+| [4 dotykové senzory TTP223](https://aliexpress.com/item/32896003343.html) |
+| [IR senzor TCRT5000](https://www.aliexpress.com/item/1005004150580253.html) |
+| [Led kruh - WS2812B 24](https://www.aliexpress.com/item/4000183166176.html) |
+| [4× Led kruh - WS2812 5050 RGB LED lampa Panel 1/4](https://www.aliexpress.com/item/1005005161775410.html) |
+| [Modulový drive servo motor pro arduino PCA9685](https://www.aliexpress.com/item/1005001621846654.html) |
+| [RTC hodiny reálného času s paměťovým modulem pro Arduino DS3231](https://www.aliexpress.com/item/32822420722.html) |
+| [KittenBot iobit V2.0 for micro:bit KBC9009A](https://www.aliexpress.com/item/32890235581.html) |
+| [Modul dvojitého H-můstku MX1508](https://www.aliexpress.com/item/1005001636421978.html) |
+| [Mikrobit na ovládání hodin](https://www.aliexpress.com/item/1005005647468917.html) |
+| [Led páska 4 adresovatelné kousky WS2812B](https://www.aliexpress.com/item/4001322411818.html) |
+| [Filament na 3D tisk] |
+| [10× vrutů o průměru 3 mm](https://www.aliexpress.com/item/10000094157430.html)(varianta 3x10) |
+| [2× šrouby M 3×30](https://aliexpress.com/item/1005005469426695.html) |
+| [2× tavná matice](https://aliexpress.com/item/1005003582355741.html) |
 
 ## Vypalování
 Nejprve začneme s vypalováním do překližky. Soubor [preklizka](preklizka.sldprt), který převedeme do souboru dxf. Bude to obsahovat přední a zadní rovinu. Abych vám to ulehčil, tak jsem vám to již do dvou souboru [predni](Vypalovani/preklizkapredni123.DXF) a [zadni](Vypalovani/preklizkazadni123.dxf). Byl použit laser [atomstack x7](https://www.atomstack.eu/products/atomstack-x7-pro-50w-laser-engraver-and-cutter). Je potřeba si najít střed překližky a brát v potaz odchylku každé překližky, protože ne každá překližka je stejně velká. Na stránkách našeho výrobce je odchylka 2-5 mm. Po vypálení očištěte kartáčkem.
