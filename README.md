@@ -33,15 +33,10 @@ A 3D printer is "surprisingly" needed for printing. For this we used [prusa mini
 ![App Screenshot](images/PlastoveCasti.jpg)
 
 ### Konkrétní soubory na tisk
-- [Motor box](motorkrabicka.SLDPRT)
-- [2× box for touch sensors](ovladanikrabicka.SLDPRT)
-- [Hand](rucicka.SLDPRT)
-- [Stand](stojan-v6.SLDPRT)
-#### Pro lepší manipulaci STL
-- [Motor box](motorkrabicka.STL)
-- [2× box for touch sensors](ovladanikrabicka.STL)
-- [Handle](rucicka.STL)
-- [Stand](stojan-v6.STL)
+- [Motor box](EngineBox.SLDPRT)
+- [2× box for touch sensors](BoxForTouchSensors.SLDPRT)
+- [Hand](HourHand.SLDPRT)
+- [Stand](Stand.SLDPRT)
 
 ## Component mounting
 Basic mounting for the holder:
