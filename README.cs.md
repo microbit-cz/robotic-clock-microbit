@@ -6,15 +6,15 @@ Projekt na vlastní hodiny ovládaný [mikrobitem](https://microbit.org/)
 [![Language](https://img.shields.io/badge/Language-English-blue)](./README.md) [![Jazyk](https://img.shields.io/badge/Jazyk-Čeština-blue)](./README.cs.md)
 
 ## Potřebné věci před realizací
-| Konkrétní položka  | Cena |
-| ------------- | ------------- |
-| [Překližka](https://www.cistedrevo.cz/dreveny-tacek-z-preklizky/)  | 20kč |
-| [4 dotykové senzory TTP223](https://aliexpress.com/item/32896003343.html) |
-| [IR senzor TCRT5000](https://www.aliexpress.com/item/1005004150580253.html) |
-| [Led kruh - WS2812B 24](https://www.aliexpress.com/item/4000183166176.html) |
-| [4× Led kruh - WS2812 5050 RGB LED lampa Panel 1/4](https://www.aliexpress.com/item/1005005161775410.html) |
-| [Modulový drive servo motor pro arduino PCA9685](https://www.aliexpress.com/item/1005001621846654.html) |
-| [RTC hodiny reálného času s paměťovým modulem pro Arduino DS3231](https://www.aliexpress.com/item/32822420722.html) |
+| Konkrétní položka  | Cena bez dopravy | Doprava |
+| ------------- | ------------- | ------------- |
+| [Překližka](https://www.cistedrevo.cz/dreveny-tacek-z-preklizky/)  | 219,2 kč |
+| [4 dotykové senzory TTP223](https://aliexpress.com/item/32896003343.html) | 43,68 kč | 26,06 kč |
+| [IR senzor TCRT5000](https://www.aliexpress.com/item/1005004150580253.html) | 14,03 kč | 26,06 kč |
+| [Led kruh - WS2812B 24](https://www.aliexpress.com/item/4000183166176.html) | 75,30 kč |18,49 kč |
+| [4× Led kruh - WS2812 5050 RGB LED lampa Panel 1/4](https://www.aliexpress.com/item/1005005161775410.html) | 189,8 kč | 23,17 kč |
+| [Modulový drive servo motor pro arduino PCA9685](https://www.aliexpress.com /item/1005001621846654.html) | 69,39 kč | 5,57 kč |
+| [RTC hodiny reálného času s paměťovým modulem pro Arduino DS3231](https://www.aliexpress.com/item/32822420722.html) | 10,92 kč | 11,36 kč |
 | [KittenBot iobit V2.0 for micro:bit KBC9009A](https://www.aliexpress.com/item/32890235581.html) |
 | [Modul dvojitého H-můstku MX1508](https://www.aliexpress.com/item/1005001636421978.html) |
 | [Mikrobit na ovládání hodin](https://www.aliexpress.com/item/1005005647468917.html) |
