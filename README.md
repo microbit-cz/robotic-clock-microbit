@@ -1,5 +1,5 @@
 # Robotic clock with electronics stand
-![App Screenshot](images/hodiny.jpg)
+![App Screenshot](images/FinalPhoto.jpg)
 Project for a custom clock controlled by [microbit](https://microbit.org/)
 
 ## Languages
@@ -32,7 +32,7 @@ First we start with burning into the plywood. The file [preklizka](preklizka.sld
 
 ## Printing
 "Surprisingly" a 3D printer is needed for printing. For this we used [prusa mini 2](https://www.prusa3d.com/cs/produkt/stavebnice-3d-tiskarny-original-prusa-mini-2/). For example, we offer such a [filament](https://www.alza.cz/gembird-filament-pla-cerna-d4481219.htm). Of course, choose the color you want. You need to print all the parts you see in the picture. The printing time will take us about 12 hours. The weight is then determined by the filling. In our case it came out to about 152g.
-![App Screenshot](images/PlastoveCasti.jpg)
+![App Screenshot](images/3DModelsPhotos)
 
 ### Specific files to print
 - [Engine Box](ModelsSolidWorks/EngineBox.SLDPRT)
@@ -48,9 +48,9 @@ First we start with burning into the plywood. The file [preklizka](preklizka.sld
 
 ## Fitting components
 Basic fitting for the holder:
-![App Screenshot](images/MainComponents.jpg)
+![App Screenshot](images/AssemblyOfComponents2.jpg)
 Basic fitting on plywood:
-![App Screenshot](images/SoucastkyNaPreklizku.jpg)
+![App Screenshot](images/AssemblyOfComponents1.jpg)
 > **Warning**
 > After buying the components, you need to check if they all work, especially for the touch sensors, if they can indicate touch.
 
