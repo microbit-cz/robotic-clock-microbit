@@ -8,7 +8,7 @@ Projekt na vlastní hodiny ovládaný [mikrobitem](https://microbit.org/)
 ## Potřebné věci před realizací
 | Konkrétní položka  | Cena bez dopravy | Doprava |
 | ------------- | ------------- | ------------- |
-| [Překližka](https://www.cistedrevo.cz/dreveny-tacek-z-preklizky/)  | 219,2 kč |
+| [Překližka](https://www.cistedrevo.cz/dreveny-tacek-z-preklizky/)  | 19 kč | 69 kč |
 | [4 dotykové senzory TTP223](https://aliexpress.com/item/32896003343.html) | 43,68 kč | 26,06 kč |
 | [IR senzor TCRT5000](https://www.aliexpress.com/item/1005004150580253.html) | 14,03 kč | 26,06 kč |
 | [Led kruh - WS2812B 24](https://www.aliexpress.com/item/4000183166176.html) | 75,30 kč |18,49 kč |
