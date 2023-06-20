@@ -57,7 +57,7 @@ Základní osazení na překližku:
 ## Konečné realizování
 Nainstalujte všechny vruty, na potřebná místa a natahejte všechny kabely k držáků. Po realizování naštilujte IR senzor
 ## Cena
-Cca nás projekt vyšel na nějakých 2000 Kč (přesněji 1 995,28 Kč).
+Cca nás projekt vyšel na nějakých 1654 Kč.
 > **Note**
 > Cena je počítána ve **06.06.2023**, takže kvůli rostoucí inflaci, započtení dopravy a geografické poloze se může cena podstatně lišit.
 ## Autoři
