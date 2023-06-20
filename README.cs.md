@@ -1,5 +1,5 @@
 # Robotické hodiny se stojanem na elektroniku
-![App Screenshot](images/hodiny.jpg)
+![App Screenshot](images/FinalPhoto.jpg)
 Projekt na vlastní hodiny ovládaný [mikrobitem](https://microbit.org/)
 
 ## Jazyky
@@ -48,9 +48,9 @@ Na tisk je potřeba "překvapivě" 3D tiskárna. Na to jsme využili [prusa mini
 
 ## Osazení součástek
 Základní osazení pro držák:
-![App Screenshot](images/MainComponents.jpg)
+![App Screenshot](images/AssemblyOfComponents2.jpg)
 Základní osazení na překližku:
-![App Screenshot](images/SoucastkyNaPreklizku.jpg)
+![App Screenshot](images/AssemblyOfComponents1.jpg)
 > **Warning**
 > Po nákupu součástek je potřeba zkontrolovat, zda všechny funují, hlavně u dotykových senzoru, jestli dokážou indikovat dotyk.
 
