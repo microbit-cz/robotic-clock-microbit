@@ -50,7 +50,7 @@ Basic fitting on plywood:
 ## Final implementation
 Install all the screws, in the necessary places and pull all the cables to the brackets. After implementation, label the IR sensor
 ## Price
-The project cost us about 2000 (more precisely 1 995,28 CZK).
+The project cost us about $75 (more precisely $74.94).
 > **Note**
 > The price is calculated in **06.06.2023**, so due to rising inflation, accounting for transport and geographical location, the price may vary significantly.
 ## Authors
