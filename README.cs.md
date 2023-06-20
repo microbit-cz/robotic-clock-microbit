@@ -19,7 +19,6 @@ Projekt na vlastní hodiny ovládaný [mikrobitem](https://microbit.org/)
 | [Modul dvojitého H-můstku MX1508](https://www.aliexpress.com/item/1005001636421978.html) | 9,58 Kč | 5,57 Kč |
 | [Mikrobit na ovládání hodin](https://www.aliexpress.com/item/1005005647468917.html) | 458,92 Kč | 134,78 Kč |
 | [Led páska 4 adresovatelné kousky WS2812B](https://www.aliexpress.com/item/4001322411818.html) | 43,64 Kč | 23,17 Kč |
-| [Filament na 3D tisk]
 | [10× vrutů o průměru 3 mm](https://www.aliexpress.com/item/10000094157430.html)(varianta M3x10) | 10,92 Kč | zdarma |
 | [4x vruty o průměru 2 mm](https://www.aliexpress.com/item/1005004247514440.html)(varianta M2x10) | 10,91 Kč | zdarma |
 | [4x vruty o průměru 2,2 mm](https://www.aliexpress.com/item/1005004247514440.html)(varianta M2,2x10) | 10,91 Kč | zdarma |
