@@ -5,24 +5,24 @@ Project for a custom clock controlled by [microbit](https://microbit.org/)
 ## Languages
 [![Language](https://img.shields.io/badge/Language-English-blue)](./README.md) [![Jazyk](https://img.shields.io/badge/Jazyk-Čeština-blue)](./README.cs.md)
 
-## Things needed before implementation
-
-- [Plywood](https://www.cistedrevo.cz/dreveny-tacek-z-preklizky/)
-- [4 touch sensors](https://m.th.aliexpress.com/item/32901141115.html)
-- [IR sensor](https://dratek.cz/arduino/1142-infracerveny-opticky-senzor.html)
-- [Led ring WS2812b 24](https://dratek.cz/arduino/7693-rgb-led-kruh-24-x-neopixel-ws2812b.html)
-- [Led ring WS2812B 60](https://www.vokolo.cz/neopixel-ring/)
-- [Modular drive servo motor for arduino](https://dratek.cz/arduino/1686-iic-i2c-modulovy-driver-servo-motoru-pro-arduino-pca9685-16-kanalu-12-bit-pwm.html)
-- [RTC real time clock with memory module for Arduino](https://dratek.cz/arduino/1261-rtc-hodiny-realneho-casu-ds3231-at24c32-iic-pametovy-modul-pro-arduino.html)
-- [KittenBot iobit V2.0 for micro:bit](https://cz.rs-online.com/web/p/doplnky-bbc-micro-bit/2121789)
-- [Modul dvojitého H-můstku MX1508](https://pajenicko.cz/modul-dvojiteho-h-mustku-mx1508)
-- [Clock control microbit](https://ruzovka.cz/cs/micro-bit/19683-bbc-micro-bit-v2-21-mikropocitac-pro-vyuku-programovani.html)
-- [Led tape 4 addressable bits](https://www.postavrobota.cz/Adresovatelny-LED-pasek-18W-m-WS2812B-RGB-1-66cm-d1666.htm)
-- [3D Printing Filament](https://www.alza.cz/gembird-filament-pla-cerna-d4481219.htm)
-- [4 2 mm screws](https://www.sroubyonline.cz/spojovaci-material/vruty/univerzalni-vruty/din-95-ocel-zinek-bily)
-- [4 2.5 mm screws](https://www.sroubyonline.cz/spojovaci-material/vruty/univerzalni-vruty/zapustne-vruty-pz-ocel-zluty-zinek)(varianta 2,5x10)
-- [10 3 mm screws](https://www.sroubyonline.cz/spojovaci-material/vruty/univerzalni-vruty/zapustne-vruty-pz-ocel-zluty-zinek)(varianta 3x10)
-
+## Potřebné věci před realizací
+| Konkrétní položka  | Cena bez dopravy | Doprava |
+| ------------- | ------------- | ------------- |
+| [Překližka](https://www.cistedrevo.cz/dreveny-tacek-z-preklizky/)  | 19 kč | 69 kč |
+| [4 dotykové senzory TTP223](https://aliexpress.com/item/32896003343.html) | 43,68 kč | 26,06 kč |
+| [IR senzor TCRT5000](https://www.aliexpress.com/item/1005004150580253.html) | 14,03 kč | 26,06 kč |
+| [Led kruh - WS2812B 24](https://www.aliexpress.com/item/4000183166176.html) | 75,30 kč |18,49 kč |
+| [4× Led kruh - WS2812 5050 RGB LED lampa Panel 1/4](https://www.aliexpress.com/item/1005005161775410.html) | 189,8 kč | 23,17 kč |
+| [Modulový drive servo motor pro arduino PCA9685](https://www.aliexpress.com /item/1005001621846654.html) | 69,39 kč | 5,57 kč |
+| [RTC hodiny reálného času s paměťovým modulem pro Arduino DS3231](https://www.aliexpress.com/item/32822420722.html) | 10,92 kč | 11,36 kč |
+| [KittenBot iobit V2.0 for micro:bit KBC9009A](https://www.aliexpress.com/item/32890235581.html) | 314,11 kč | zdarma |
+| [Modul dvojitého H-můstku MX1508](https://www.aliexpress.com/item/1005001636421978.html) | 9,58 kč | 5,57 kč |
+| [Mikrobit na ovládání hodin](https://www.aliexpress.com/item/1005005647468917.html) | 458,92 kč | 134,78 kč |
+| [Led páska 4 adresovatelné kousky WS2812B](https://www.aliexpress.com/item/4001322411818.html) | 43,64 kč | 23,17 kč |
+| [Filament na 3D tisk]
+| [10× vrutů o průměru 3 mm](https://www.aliexpress.com/item/10000094157430.html)(varianta 3x10) | 10,92 kč | zdarma |
+| [2× šrouby M 3×30](https://aliexpress.com/item/1005005469426695.html) | 23,07 kč | zdarma |
+| [2× tavná matice](https://aliexpress.com/item/1005003582355741.html) | 14,93 kč | 44,78 kč |
 ## Burning
 First, we start with burning into the plywood. The file [plywood](preklizka.sldprt), which we convert to a dxf file. This will contain the front and back planes. To make it easier for you, I've already put it into two files [front](Burnup/preglizkapredni123.dxf) and [back](Burnup/preglizkazadni123.dxf). The laser [atomstack x7](https://www.atomstack.eu/products/atomstack-x7-pro-50w-laser-engraver-and-cutter) was used. You need to find the center of the plywood and take into account the deviation of each plywood, because not every plywood is the same size. On our manufacturer's website the deviation is 2-5 mm. Clean with a brush after firing.
 > **Warning**
