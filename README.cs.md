@@ -13,7 +13,7 @@ Projekt na vlastní hodiny ovládaný [mikrobitem](https://microbit.org/)
 | [IR senzor TCRT5000](https://www.aliexpress.com/item/1005004150580253.html) | 14,03 Kč | 26,06 Kč |
 | [Led kruh - WS2812B 24](https://www.aliexpress.com/item/4000183166176.html) | 75,30 Kč |18,49 Kč |
 | [4× Led kruh - WS2812 5050 RGB LED lampa Panel 1/4](https://www.aliexpress.com/item/1005005161775410.html) | 189,8 Kč | 23,17 Kč |
-| [Modulový drive servo motor pro arduino PCA9685](https://www.aliexpress.com /item/1005001621846654.html) | 69,39 Kč | 5,57 Kč |
+| [Modulový drive servo motor pro arduino PCA9685](https://www.aliexpress.com/item/1005001621846654.html) | 69,39 Kč | 5,57 Kč |
 | [RTC hodiny reálného času s paměťovým modulem pro Arduino DS3231](https://www.aliexpress.com/item/32822420722.html) | 10,92 Kč | 11,36 Kč |
 | [KittenBot iobit V2.0 for micro:bit KBC9009A](https://www.aliexpress.com/item/32890235581.html) | 314,11 Kč | zdarma |
 | [Modul dvojitého H-můstku MX1508](https://www.aliexpress.com/item/1005001636421978.html) | 9,58 Kč | 5,57 Kč |
