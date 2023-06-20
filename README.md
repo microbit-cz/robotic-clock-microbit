@@ -40,6 +40,12 @@ First we start with burning into the plywood. The file [preklizka](preklizka.sld
 - [Hand](ModelsSolidWorks/HourHand.SLDPRT)
 - [Stand](ModelsSolidWorks/Stand.SLDPRT)
 
+### For better handling download this STL
+- [Engine Box](STLFile/EngineBox.STL)
+- [2× box for touch sensors](STLFile/BoxForTouchSensors.STL)
+- [Hand](STLFile/HourHand.STL)
+- [Stand](STLFile/Stand.STL)
+
 ## Fitting components
 Basic fitting for the holder:
 ![App Screenshot](images/MainComponents.jpg)
