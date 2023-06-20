@@ -12,7 +12,7 @@ Project for a custom clock controlled by [microbit](https://microbit.org/)
 | [4 touch screen TTP223](https://aliexpress.com/item/32896003343.html) | $1.94 | $1.16 |
 | [IR sensor TCRT5000](https://www.aliexpress.com/item/1005004150580253.html) | $0.62 | $1.16 |
 | [Led ring - WS2812B 24](https://www.aliexpress.com/item/4000183166176.html) | $3.35 | $0.82 |
-| [4× Led ring - WS2812 5050 RGB LED lampa Panel 1/4](https://www.aliexpress.com/item/1005005161775410.html) | $8.43 | $1.03 |
+| [4× Led ring - WS2812 5050 RGB LED lamp Panel 1/4](https://www.aliexpress.com/item/1005005161775410.html) | $8.43 | $1.03 |
 | [Modular drive servo motor for arduino PCA9685](https://www.aliexpress.com/item/1005001621846654.html) | $3.09 | $0.25|
 | [RTC real-time clock with memory module for aruduino DS3231](https://www.aliexpress.com/item/32822420722.html) | $0.49 |	$0.50 |
 | [KittenBot iobit V2.0 for micro:bit KBC9009A](https://www.aliexpress.com/item/32890235581.html) | $13.98 |	free |
