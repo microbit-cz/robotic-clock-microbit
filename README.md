@@ -8,21 +8,21 @@ Project for a custom clock controlled by [microbit](https://microbit.org/)
 ## Potřebné věci před realizací
 | Konkrétní položka  | Cena bez dopravy | Doprava |
 | ------------- | ------------- | ------------- |
-| [Překližka](https://www.cistedrevo.cz/dreveny-tacek-z-preklizky/)  | 19 kč | 69 kč |
-| [4 dotykové senzory TTP223](https://aliexpress.com/item/32896003343.html) | 43,68 kč | 26,06 kč |
-| [IR senzor TCRT5000](https://www.aliexpress.com/item/1005004150580253.html) | 14,03 kč | 26,06 kč |
-| [Led kruh - WS2812B 24](https://www.aliexpress.com/item/4000183166176.html) | 75,30 kč |18,49 kč |
-| [4× Led kruh - WS2812 5050 RGB LED lampa Panel 1/4](https://www.aliexpress.com/item/1005005161775410.html) | 189,8 kč | 23,17 kč |
-| [Modulový drive servo motor pro arduino PCA9685](https://www.aliexpress.com /item/1005001621846654.html) | 69,39 kč | 5,57 kč |
-| [RTC hodiny reálného času s paměťovým modulem pro Arduino DS3231](https://www.aliexpress.com/item/32822420722.html) | 10,92 kč | 11,36 kč |
-| [KittenBot iobit V2.0 for micro:bit KBC9009A](https://www.aliexpress.com/item/32890235581.html) | 314,11 kč | zdarma |
-| [Modul dvojitého H-můstku MX1508](https://www.aliexpress.com/item/1005001636421978.html) | 9,58 kč | 5,57 kč |
-| [Mikrobit na ovládání hodin](https://www.aliexpress.com/item/1005005647468917.html) | 458,92 kč | 134,78 kč |
-| [Led páska 4 adresovatelné kousky WS2812B](https://www.aliexpress.com/item/4001322411818.html) | 43,64 kč | 23,17 kč |
-| [Filament na 3D tisk]
-| [10× vrutů o průměru 3 mm](https://www.aliexpress.com/item/10000094157430.html)(varianta 3x10) | 10,92 kč | zdarma |
-| [2× šrouby M 3×30](https://aliexpress.com/item/1005005469426695.html) | 23,07 kč | zdarma |
-| [2× tavná matice](https://aliexpress.com/item/1005003582355741.html) | 14,93 kč | 44,78 kč |
+| [Plywood](https://www.cistedrevo.cz/dreveny-tacek-z-preklizky/)  | $0.84 | $3.07 |
+| [4 touch screen TTP223](https://aliexpress.com/item/32896003343.html) | $1.94 | $1.16 |
+| [IR sensor TCRT5000](https://www.aliexpress.com/item/1005004150580253.html) | $0.62 | $1.16 |
+| [Led ring - WS2812B 24](https://www.aliexpress.com/item/4000183166176.html) | $3.35 | $0.82 |
+| [4× Led ring - WS2812 5050 RGB LED lampa Panel 1/4](https://www.aliexpress.com/item/1005005161775410.html) | $8.43 | $1.03 |
+| [Modular drive servo motor for arduino PCA9685](https://www.aliexpress.com /item/1005001621846654.html) | $3.09 | $0.25|
+| [RTC real-time clock with memory module for aruduino DS3231](https://www.aliexpress.com/item/32822420722.html) | $0.49 |	$0.50 |
+| [KittenBot iobit V2.0 for micro:bit KBC9009A](https://www.aliexpress.com/item/32890235581.html) | $13.98 |	free |
+| [Module double H-bridge MX1508](https://www.aliexpress.com/item/1005001636421978.html) | $0.43	| $0.25 |
+| [Microbit to control the clock](https://www.aliexpress.com/item/1005005647468917.html) | $20.40	|$5.99 |
+| [Led strip 4 addressable pieces WS2812B](https://www.aliexpress.com/item/4001322411818.html) | $1.94 | $1.03 |
+| [Filament for 3D printing]
+| [10× screws with a diameter of 3 mm](https://www.aliexpress.com/item/10000094157430.html)(varianta 3x10) | $0.49	| free|
+| [2× screws M 3×30](https://aliexpress.com/item/1005005469426695.html) | $1.03	 | free|
+| [2× melting nuts](https://aliexpress.com/item/1005003582355741.html) | $0.66|	$1.99 |
 ## Burning
 First, we start with burning into the plywood. The file [plywood](preklizka.sldprt), which we convert to a dxf file. This will contain the front and back planes. To make it easier for you, I've already put it into two files [front](Burnup/preglizkapredni123.dxf) and [back](Burnup/preglizkazadni123.dxf). The laser [atomstack x7](https://www.atomstack.eu/products/atomstack-x7-pro-50w-laser-engraver-and-cutter) was used. You need to find the center of the plywood and take into account the deviation of each plywood, because not every plywood is the same size. On our manufacturer's website the deviation is 2-5 mm. Clean with a brush after firing.
 > **Warning**
