@@ -18,7 +18,7 @@ Projekt na vlastní hodiny ovládaný [mikrobitem](https://microbit.org/)
 | [KittenBot iobit V2.0 for micro:bit KBC9009A](https://www.aliexpress.com/item/32890235581.html) | 314,11 kč |
 | [Modul dvojitého H-můstku MX1508](https://www.aliexpress.com/item/1005001636421978.html) | 9,58 kč | 5,57 kč |
 | [Mikrobit na ovládání hodin](https://www.aliexpress.com/item/1005005647468917.html) | 458,92 kč | 134,78 kč |
-| [Led páska 4 adresovatelné kousky WS2812B](https://www.aliexpress.com/item/4001322411818.html) | 43,64 kč |
+| [Led páska 4 adresovatelné kousky WS2812B](https://www.aliexpress.com/item/4001322411818.html) | 43,64 kč | 23,17 kč |
 | [Filament na 3D tisk]
 | [10× vrutů o průměru 3 mm](https://www.aliexpress.com/item/10000094157430.html)(varianta 3x10) | 10,92 kč | zdarma |
 | [2× šrouby M 3×30](https://aliexpress.com/item/1005005469426695.html) | 23,07 kč | zdarma |
