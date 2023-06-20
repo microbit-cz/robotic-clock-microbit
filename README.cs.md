@@ -40,6 +40,12 @@ Na tisk je potřeba "překvapivě" 3D tiskárna. Na to jsme využili [prusa mini
 - [Ručička](ModelsSolidWorks/HourHand.SLDPRT)
 - [Stojan](ModelsSolidWorks/Stand.SLDPRT)
 
+### Pro lepší manipulaci si stáhněte toto STL
+- [Engine Box](STLFile/EngineBox.STL)
+- [2× box for touch sensors](STLFile/BoxForTouchSensors.STL)
+- [Hand](STLFile/HourHand.STL)
+- [Stand](STLFile/Stand.STL)
+
 ## Osazení součástek
 Základní osazení pro držák:
 ![App Screenshot](images/MainComponents.jpg)
