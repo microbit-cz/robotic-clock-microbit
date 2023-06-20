@@ -20,7 +20,9 @@ Project for a custom clock controlled by [microbit](https://microbit.org/)
 | [Microbit to control the clock](https://www.aliexpress.com/item/1005005647468917.html) | $20.40	|$5.99 |
 | [Led strip 4 addressable pieces WS2812B](https://www.aliexpress.com/item/4001322411818.html) | $1.94 | $1.03 |
 | [Filament for 3D printing]
-| [10× screws with a diameter of 3 mm](https://www.aliexpress.com/item/10000094157430.html)(varianta 3x10) | $0.49	| free|
+| [10× screws with a diameter of 3 mm](https://www.aliexpress.com/item/10000094157430.html)(M3x10) | $0.49	| free|
+| [4x screws with a diameter of 2 mm](https://www.aliexpress.com/item/1005004247514440.html)(M2x10) | $0.49 | free |
+| [4x screws with a diameter of 2,2 mm](https://www.aliexpress.com/item/1005004247514440.html)(M2,2x10) | $0.49 | free |
 | [2× screws M 3×30](https://aliexpress.com/item/1005005469426695.html) | $1.03	 | free|
 | [2× melting nuts](https://aliexpress.com/item/1005003582355741.html) | $0.66|	$1.99 |
 
