@@ -20,7 +20,9 @@ Projekt na vlastní hodiny ovládaný [mikrobitem](https://microbit.org/)
 | [Mikrobit na ovládání hodin](https://www.aliexpress.com/item/1005005647468917.html) | 458,92 kč | 134,78 kč |
 | [Led páska 4 adresovatelné kousky WS2812B](https://www.aliexpress.com/item/4001322411818.html) | 43,64 kč | 23,17 kč |
 | [Filament na 3D tisk]
-| [10× vrutů o průměru 3 mm](https://www.aliexpress.com/item/10000094157430.html)(varianta 3x10) | 10,92 kč | zdarma |
+| [10× vrutů o průměru 3 mm](https://www.aliexpress.com/item/10000094157430.html)(varianta M3x10) | 10,92 kč | zdarma |
+| [4x vruty o průměru 2 mm](https://www.aliexpress.com/item/1005004247514440.html)(varianta M2x10) | 10,91 Kč | zdarma |
+| [4x vruty o průměru 2,2 mm](https://www.aliexpress.com/item/1005004247514440.html)(varianta M2,2x10) | 10,91 Kč | zdarma |
 | [2× šrouby M 3×30](https://aliexpress.com/item/1005005469426695.html) | 23,07 kč | zdarma |
 | [2× tavná matice](https://aliexpress.com/item/1005003582355741.html) | 14,93 kč | 44,78 kč |
 
