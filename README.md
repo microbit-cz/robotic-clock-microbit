@@ -31,7 +31,7 @@ First we start with burning into the plywood. I've already created a dxf [file](
 > Constant checking is necessary during firing and it is forbidden to leave it unattended, as a fire may occur. I also recommend opening the windows in the room to reduce smoke accumulation.
 
 ## Printing
-"Surprisingly" a 3D printer is needed for printing. For this we used [prusa mini 2](https://www.prusa3d.com/cs/produkt/stavebnice-3d-tiskarny-original-prusa-mini-2/). For example, we offer such a [filament](https://www.alza.cz/gembird-filament-pla-cerna-d4481219.htm). Of course, choose the color you want. You need to print all the parts you see in the picture. The printing time will take us about 12 hours. The weight is then determined by the filling. In our case it came out to about 152g.
+We need 3D printer for printing. For this we used [prusa mini 2](https://www.prusa3d.com/cs/produkt/stavebnice-3d-tiskarny-original-prusa-mini-2/). For example, we offer such a [filament](https://www.alza.cz/gembird-filament-pla-cerna-d4481219.htm). Of course, choose the color you want. You need to print all the parts you see in the picture. The printing time will take us about 12 hours. The weight is then determined by the filling. In our case it came out to about 152g.
 ![App Screenshot](images/3DModelsPhotos.jpg)
 
 ### Specific files to print in STL format
