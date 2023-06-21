@@ -36,9 +36,13 @@ First we start with burning into the plywood. I've already created a dxf [file](
 
 ### Specific files to print in STL format
 - [Engine Box](STLFile/EngineBox.STL)
-- [2× box for touch sensors](STLFile/BoxForTouchSensors.STL)
+- [box for touch sensors](STLFile/BoxForTouchSensors.STL)
+- [box for touch sensors](STLFile/BoxForTouchSensorsSecondSide.STL)
 - [Hand](STLFile/HourHand.STL)
 - [Stand](STLFile/Stand.STL)
+- [Box for LED24](BoxForLed24.STL)
+- [Box for LED60](BoxForLed60.STL)
+- [Holder For IR Sensor](HolderForIRSensor.STL)
 
 ## Fitting components
 Basic fitting for the holder:
