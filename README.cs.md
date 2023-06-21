@@ -36,9 +36,13 @@ Na tisk je potřeba 3D tiskárna. Na to jsme využili [prusa mini 2](https://www
 
 ### Konkrétní soubory na tisk pomocí STL formátu
 - [Engine Box](STLFile/EngineBox.STL)
-- [2× box for touch sensors](STLFile/BoxForTouchSensors.STL)
+- [box for touch sensors](STLFile/BoxForTouchSensors.STL)
+- [box for touch sensors](STLFile/BoxForTouchSensorsSecondSide.STL)
 - [Hand](STLFile/HourHand.STL)
 - [Stand](STLFile/Stand.STL)
+- [Box for LED24](BoxForLed24.STL)
+- [Box for LED60](BoxForLed60.STL)
+- [Holder For IR Sensor](HolderForIRSensor.STL)
 
 ## Osazení součástek
 Základní osazení pro držák:
