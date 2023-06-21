@@ -26,7 +26,7 @@ Project for a custom clock controlled by [microbit](https://microbit.org/)
 | [2× melting nuts](https://aliexpress.com/item/1005003582355741.html) | $0.66|	$1.99 |
 
 ## Burning
-First we start with burning into the plywood. The file [preklizka](preklizka.sldprt), which we convert to a dxf file. This will contain the front and back planes. To make it easier for you, I've already created a dxf [file](Burning/PlyWood.DXF). The laser [atomstack x7](https://www.atomstack.eu/products/atomstack-x7-pro-50w-laser-engraver-and-cutter) was used. You need to find the center of the plywood and take into account the deviation of each plywood, because not every plywood is the same size. On our manufacturer's website the deviation is 2-5 mm. Clean with a brush after firing.
+First we start with burning into the plywood. I've already created a dxf [file](Burning/PlyWood.DXF). The laser [atomstack x7](https://www.atomstack.eu/products/atomstack-x7-pro-50w-laser-engraver-and-cutter) was used. You need to find the center of the plywood and take into account the deviation of each plywood, because not every plywood is the same size. On our manufacturer's website the deviation is 2-5 mm. Clean with a brush after firing.
 > **Warning**
 > Constant checking is necessary during firing and it is forbidden to leave it unattended, as a fire may occur. I also recommend opening the windows in the room to reduce smoke accumulation.
 
@@ -34,13 +34,7 @@ First we start with burning into the plywood. The file [preklizka](preklizka.sld
 "Surprisingly" a 3D printer is needed for printing. For this we used [prusa mini 2](https://www.prusa3d.com/cs/produkt/stavebnice-3d-tiskarny-original-prusa-mini-2/). For example, we offer such a [filament](https://www.alza.cz/gembird-filament-pla-cerna-d4481219.htm). Of course, choose the color you want. You need to print all the parts you see in the picture. The printing time will take us about 12 hours. The weight is then determined by the filling. In our case it came out to about 152g.
 ![App Screenshot](images/3DModelsPhotos.jpg)
 
-### Specific files to print
-- [Engine Box](ModelsSolidWorks/EngineBox.SLDPRT)
-- [2× box for touch sensors](ModelsSolidWorks/BoxForTouchSensors.SLDPRT)
-- [Hand](ModelsSolidWorks/HourHand.SLDPRT)
-- [Stand](ModelsSolidWorks/Stand.SLDPRT)
-
-### For better handling download this STL
+### Specific files to print in STL format
 - [Engine Box](STLFile/EngineBox.STL)
 - [2× box for touch sensors](STLFile/BoxForTouchSensors.STL)
 - [Hand](STLFile/HourHand.STL)
