@@ -26,7 +26,7 @@ Projekt na vlastní hodiny ovládaný [mikrobitem](https://microbit.org/)
 | [2× tavná matice](https://aliexpress.com/item/1005003582355741.html) | 14,93 Kč | 44,78 Kč |
 
 ## Vypalování
-Nejprve začneme s vypalováním do překližky. Soubor [preklizka](preklizka.sldprt), který převedeme do souboru dxf. Bude to obsahovat přední a zadní rovinu. Abych vám to ulehčil, tak jsem již vám vytoviřil dxf [soubor](Burning/PlyWood.DXF). Byl použit laser [atomstack x7](https://www.atomstack.eu/products/atomstack-x7-pro-50w-laser-engraver-and-cutter). Je potřeba si najít střed překližky a brát v potaz odchylku každé překližky, protože ne každá překližka je stejně velká. Na stránkách našeho výrobce je odchylka 2-5 mm. Po vypálení očištěte kartáčkem.
+Nejprve začneme s vypalováním do překližky. Využíjte již hotový DXF [soubor](Burning/PlyWood.DXF). Byl použit laser [atomstack x7](https://www.atomstack.eu/products/atomstack-x7-pro-50w-laser-engraver-and-cutter). Je potřeba si najít střed překližky a brát v potaz odchylku každé překližky, protože ne každá překližka je stejně velká. Na stránkách našeho výrobce je odchylka 2-5 mm. Po vypálení očištěte kartáčkem.
 > **Warning**
 > Při vypalování je nutná neustála kontrola a je zakázaný ocházet bez dozoru, jelikož může vzniknout požár. Taktéž doporučuji v místnosti otevřít okna pro snížení akumulace kouře
 
@@ -34,13 +34,7 @@ Nejprve začneme s vypalováním do překližky. Soubor [preklizka](preklizka.sl
 Na tisk je potřeba "překvapivě" 3D tiskárna. Na to jsme využili [prusa mini 2](https://www.prusa3d.com/cs/produkt/stavebnice-3d-tiskarny-original-prusa-mini-2/). Nabízí se nám třeba takový [filament](https://www.alza.cz/gembird-filament-pla-cerna-d4481219.htm). Samozřejmě barvu si vyberte jakou chcete. Je třeba vytisknout všechny části, kterou jsou na obrázku. Doba tisknu nám zabere cca 12 hodin. Podle vyplnění se pak odvíjí hmotnost. V našem případě to vycházelo na cca 152g.
 ![App Screenshot](images/3DModelsPhotos.jpg)
 
-### Konkrétní soubory na tisk
-- [Krabička s motorem](ModelsSolidWorks/EngineBox.SLDPRT)
-- [2× krabička na pro dotykové senzory](ModelsSolidWorks/BoxForTouchSensors.SLDPRT)
-- [Ručička](ModelsSolidWorks/HourHand.SLDPRT)
-- [Stojan](ModelsSolidWorks/Stand.SLDPRT)
-
-### Pro lepší manipulaci si stáhněte toto STL
+### Konkrétní soubory na tisk pomocí STL formátu
 - [Engine Box](STLFile/EngineBox.STL)
 - [2× box for touch sensors](STLFile/BoxForTouchSensors.STL)
 - [Hand](STLFile/HourHand.STL)
@@ -52,7 +46,7 @@ Základní osazení pro držák:
 Základní osazení na překližku:
 ![App Screenshot](images/AssemblyOfComponents1.jpg)
 > **Warning**
-> Po nákupu součástek je potřeba zkontrolovat, zda všechny funují, hlavně u dotykových senzoru, jestli dokážou indikovat dotyk.
+> Po nákupu součástek je potřeba zkontrolovat, zda všechno funguje, hlavně u dotykových senzoru, jestli dokážou indikovat dotyk.
 
 ## Konečné realizování
 Nainstalujte všechny vruty, na potřebná místa a natahejte všechny kabely k držáků. Po realizování naštilujte IR senzor
