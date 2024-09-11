@@ -1,5 +1,5 @@
 # Robotic clock with electronics stand
-![App Screenshot](images/FinalPhoto.jpg)
+[![App Screenshot](images/FinalPhoto.jpg)](https://youtu.be/u4ETjmMWLJo)
 Project for a custom clock controlled by [microbit](https://microbit.org/)
 
 ## Languages
